@@ -1,6 +1,6 @@
-- Inform Aravind to do testing
-- Notes reg. change file
-- see the code changes reg. last updated At and last updated By
-- CUD operations in Investigation, hold, SaveSearch and Share to check last updated by and last updated at 
-- SaveSearch CRUD Operations is audit correctly or not. 
+- Inform Aravind to do testing - 15mins
+- Notes reg. change file - 15mins
+- see the code changes reg. last updated At and last updated By - 15mins
+- CUD operations in Investigation, hold, SaveSearch and Share to check last updated by and last updated at - 30 mins
+- SaveSearch CRUD Operations is audit correctly or not. - 15 mins
 - See the latest commit in git hub.
