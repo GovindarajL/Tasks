@@ -1,5 +1,6 @@
 - Inform Aravind to do testing - 15mins
 - Notes reg. change file - 15mins
+- See no of holds count is added in the response whether it is added in proto or vo? why it is not added in the proto? where the value is being set for that? - 15 mins
 - see the code changes reg. last updated At and last updated By - 15mins
 - CUD operations in Investigation, hold, SaveSearch and Share to check last updated by and last updated at - 30 mins
 - SaveSearch CRUD Operations is audit correctly or not. - 15 mins
