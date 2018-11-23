@@ -1,6 +1,7 @@
 - House Clean - Includes My Shelf clean, bathroom clean - 45 mins
 - Hair Bath - Vitamin E oil - 45 mins
 - Document the vault work - Updating in Vault Repo Learnings and the tasks we did so far, Need to empty the sublime.txt netty notes file empty - 3 hrs
+- Audit And Export Code understanding - 3 hrs
 - Completing the task in English repo - 1 hr 
 - Push and pull ups - 15 mins
 - Kandai 1/2 kg Fish Fry - Sunday 
